@@ -1,4 +1,4 @@
-import {toggleMenu} from './toggleMenu'
+import { toggleMenu } from "./toggleMenu"
 
 export let menuOpen = false
 
